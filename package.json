@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/joaobcpatricio/NodeHero/issues"
   },
-  "homepage": "https://github.com/joaobcpatricio/NodeHero#readme"
+  "homepage": "https://github.com/joaobcpatricio/NodeHero#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
