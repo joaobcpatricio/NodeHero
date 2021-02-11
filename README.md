@@ -4,4 +4,5 @@ Original tutorial: https://blog.risingstack.com/node-hero-tutorial-getting-start
 Extra tips: https://nodejs.org/api/readline.html
 
 1st: Basic module
+
 2nd: Add lodash

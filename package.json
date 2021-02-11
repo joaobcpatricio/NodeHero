@@ -4,8 +4,9 @@
   "description": "Basic tutorial of node.js",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "your-custom-script": "echo npm"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,8 @@
   "homepage": "https://github.com/joaobcpatricio/NodeHero#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
   }
 }
